@@ -20,7 +20,8 @@ body {
   width: 100px;
   border-radius: 50%;
   /* border: 1px solid; */
-  border: 2px solid red;
+  /* border: 2px solid red; */
+  border: 2px solid yellow;
 
 }
 
